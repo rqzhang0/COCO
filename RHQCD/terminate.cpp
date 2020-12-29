@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <time.h>
 #include "terminate.h"
-#include "comm/comm_low.h"
+#include "comm_low.h"
 
 namespace qcd {
 

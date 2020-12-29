@@ -5,12 +5,12 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
-#include <malloc-stub.h>
+#include "malloc-stub.h"
 #include "su3.h"
 #include "vector_util.h"
 #include "terminate.h"
 #include "lattice.h"
-#include "comm/comm_low.h"
+#include "comm_low.h"
 
 namespace qcd {
 

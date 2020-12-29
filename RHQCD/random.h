@@ -22,7 +22,7 @@ struct double_prn {
   float rand();
 };
 
-void random_su3_matrix(su3_matrix* m, double_prn* rnd);
+//void random_su3_matrix(su3_matrix* m, double_prn* rnd);
 
 } // qcd namespace
 
